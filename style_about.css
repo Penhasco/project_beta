@@ -1,0 +1,10 @@
+/* About Us Section */
+.about {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .about h1 {
+    font-size: 36px;
+  }
